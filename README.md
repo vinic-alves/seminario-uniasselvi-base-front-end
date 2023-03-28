@@ -1,0 +1,1 @@
+# seminario-uniasselvi-base-front-end
